@@ -48,7 +48,7 @@ Estimates the **Compound Annual Growth Rate (CAGR)** of a bond investment over a
 ---
 
 ## 📂 Files Included
-- `Project One.xlsx` – Fully functional bond analytics and CAGR calculator
+- `Fixed Income Analytics Tool.xlsx` – Fully functional bond analytics and CAGR calculator
 
 ---
 
